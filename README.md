@@ -26,7 +26,7 @@ Install `cozy-bear-nvim` using your favourite plugin manager:
 
 Cozy Bear
 
-![Cozy Bear with Neovim](https://raw.githubusercontent.com/ebadfd/cozy-bear-nvim/refs/heads/main/.github/demo-cozy-bear.png)
+![Cozy Bear with Neovim](https://raw.githubusercontent.com/ebadfd/cozy-bear-nvim/refs/heads/main/.github/demo.png)
 
 
 ## Options
