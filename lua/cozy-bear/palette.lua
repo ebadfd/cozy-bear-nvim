@@ -1,24 +1,24 @@
 local options = require("cozy-bear.config").options
 local variants = {
 	main = {
-		_nc = "#10131b",      -- A slightly darker background for better contrast
-		base = "#161a23",     -- Black 0 (main background layer)
-		surface = "#212734",  -- Black 8 (secondary background)
-		overlay = "#2b3242",  -- Overlay for depth
-		muted = "#5e616b",    -- Muted tones for inactive elements
-		subtle = "#818896",   -- Subtle tones for non-primary text
-		text = "#dcd7c9",     -- Foreground text with a slightly softer white
-		love = "#e5736f",     -- Red 1 with a bit of vibrancy
-		gold = "#e7a954",     -- Yellow 3, softened for comfort
-		rose = "#e89285",     -- Red 9 with warm highlights
-		pine = "#528dbd",     -- Blue 4 with more clarity
-		foam = "#8ac7c1",     -- Cyan 6, softened for easier readability
-		iris = "#a493c7",     -- Magenta 5, balanced for subtle highlights
-		leaf = "#99b56f",     -- Green 2, natural and calming
-		highlight_low = "#161a23", -- Matches the base (low-emphasis highlights)
-		highlight_med = "#2c3545", -- Medium-level highlights for active elements
-		highlight_high = "#c9c1b2", -- High contrast for strong highlights
-		none = "NONE"         -- Areas with no specific color
+		_nc = "#0a0e14",      -- Adjusted to match Cozy Bear's background
+		base = "#181b23",     -- Black 0
+		surface = "#2a2f3a",  -- Black 8
+		overlay = "#1f1d2e",  -- Subtle background layer
+		muted = "#6e6a86",    -- Neutral muted tones
+		subtle = "#908caa",   -- Slightly vibrant gray
+		text = "#d3c8ba",     -- Foreground text color
+		love = "#d36c6c",     -- Red 1
+		gold = "#e7a953",     -- Yellow 3
+		rose = "#e88383",     -- Red 9 (bright)
+		pine = "#4d8dc4",     -- Blue 4
+		foam = "#78b6bc",     -- Cyan 6
+		iris = "#b18bbb",     -- Magenta 5
+		leaf = "#a1c05d",     -- Green 2
+		highlight_low = "#181b23", -- Black 0 (low contrast highlight)
+		highlight_med = "#26233a", -- Mid-level highlight
+		highlight_high = "#bcb4a9", -- Soft white for high contrast
+		none = "NONE"         -- For areas with no specific color
 	}
 }
 
