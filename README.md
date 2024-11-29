@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://github.com/ebadfd/cozy-bear-nvim/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for Neovim</h2>
+    <img src="https://raw.githubusercontent.com/ebadfd/cozy-bear-nvim/refs/heads/main/.github/icon.png" width="80" />
+    <h2 align="center">Cozy Bear for Neovim</h2>
 </p>
 
-<p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
+<p align="center">A warm, balanced theme for comfortable long coding sessions.</p>
 
 
 ## Getting started
@@ -24,17 +24,10 @@ Install `cozy-bear-nvim` using your favourite plugin manager:
 
 ## Gallery
 
-**Rosé Pine**
+Cozy Bear
 
-![Rosé Pine with Neovim](https://user-images.githubusercontent.com/1973/163921570-0f577baf-3199-4f09-9779-a7eb9238151a.png)
+![Cozy Bear with Neovim](https://raw.githubusercontent.com/ebadfd/cozy-bear-nvim/refs/heads/main/.github/demo-cozy-bear.png)
 
-**Rosé Pine Moon**
-
-![Rosé Pine Moon with Neovim](https://user-images.githubusercontent.com/1973/163921620-d3acd0d2-d227-4d28-a5e8-97ff22e56c6d.png)
-
-**Rosé Pine Dawn**
-
-![Rosé Pine Dawn with Neovim](https://user-images.githubusercontent.com/1973/163921656-644a2db3-c55c-4e89-9bdd-39cdd7a2681b.png)
 
 ## Options
 
