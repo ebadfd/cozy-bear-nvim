@@ -1,4 +1,4 @@
-local p = require("rose-pine.palette")
+local p = require("cozy-bear.palette")
 
 return {
 	normal = {
